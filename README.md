@@ -1,4 +1,4 @@
-<p align="left">Zepa Sound<br><br>Cientista de dados</p>
+<p align="left">Zepa Sound<br><br>Sou um Cientista de Dados com conhecimento em Python, JavaScrypt, HTML, Power bi, VBA </p>
 
 ###
 <div align="left">
